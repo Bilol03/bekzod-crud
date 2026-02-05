@@ -15,6 +15,7 @@ function writeFile(filename, datas) {
     return true
 }
 
+
 module.exports = {
     readFile, writeFile
 }
